@@ -1,0 +1,11 @@
+.NET 프레임워크와 .NET Core는 다르다!
+.NET 프레임워크는 2000년대 초반부터 누구나 갖고 있는 것이고
+.NET CORE는 크로스 플랫폼으로써 사용할 수 있다고 함
+
+참고: https://svcministry.org/ko/dictionary/what-is-the-difference-between-net-core-and-net-framework/
+
+※Windows Server는 일반적인 윈도우와 달리
+접속자에 대한 접속 보장권을 제공해야 하는데, 이를 CAL(Client Access License)라 함.
+기본적으로 5개의 CAL 라이센스를 보유해야 한다고 한다.
+
+​참고: https://m.blog.naver.com/PostView.nhn?blogId=willowtech&logNo=220726403572&proxyReferer=https:%2F%2Fwww.google.com%2F
